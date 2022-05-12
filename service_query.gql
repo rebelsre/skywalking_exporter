@@ -1,0 +1,1 @@
+query queryData($condition:TopNCondition!, $duration:Duration!){sortMetrics:sortMetrics(condition:$condition,duration:$duration){name id value refId}}

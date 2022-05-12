@@ -1,0 +1,1 @@
+{"duration":{"start":"##START##","end":"##END##","step":"MINUTE"},"condition":{"name":"service_percentile","entity":{"scope":"Service","serviceName":"##SERVICENAME##","normal":true}},"labels":["0","1","2","3","4"]}
